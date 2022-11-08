@@ -158,6 +158,11 @@ body {
                 background: linear-gradient(45deg, #0e76a8, #0072b1);
                 box-shadow: 0 4px 30px rgba(19, 127, 212, 0.7);
             }
+
+            &.stackoverflow {
+                background: linear-gradient(45deg, #F47F24, #BCBBBB, #222426 );
+                box-shadow: 0 4px 30px rgba(19, 127, 212, 0.7);
+            }
          }
     }
 
